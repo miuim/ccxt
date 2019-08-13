@@ -36,6 +36,8 @@ use kornrunner\Solidity;
 
 $version = '1.18.1045';
 
+//test
+
 // rounding mode
 const TRUNCATE = 0;
 const ROUND = 1;
